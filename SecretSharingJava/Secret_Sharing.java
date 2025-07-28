@@ -1,4 +1,4 @@
-// File: SecretSharing.java
+
 
 import java.util.*;
 
